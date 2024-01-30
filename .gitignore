@@ -1,0 +1,5 @@
+.azure
+**/*/bin
+**/*/obj
+**/.vs
+**/.vscode
